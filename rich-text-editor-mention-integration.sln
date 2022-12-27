@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rich-text-editor-mention-integration", "rich-text-editor-mention-integration\rich-text-editor-mention-integration.csproj", "{2C85BC01-FD51-4C29-8C39-0881E2745868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C85BC01-FD51-4C29-8C39-0881E2745868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C85BC01-FD51-4C29-8C39-0881E2745868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C85BC01-FD51-4C29-8C39-0881E2745868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C85BC01-FD51-4C29-8C39-0881E2745868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B9F3484-BB4D-480F-A96B-493EA55A2114}
+	EndGlobalSection
+EndGlobal
